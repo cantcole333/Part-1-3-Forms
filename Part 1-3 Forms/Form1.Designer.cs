@@ -101,7 +101,7 @@
             // 
             // txtInputHeight
             // 
-            this.txtInputHeight.Location = new System.Drawing.Point(0, 168);
+            this.txtInputHeight.Location = new System.Drawing.Point(12, 165);
             this.txtInputHeight.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtInputHeight.Name = "txtInputHeight";
             this.txtInputHeight.Size = new System.Drawing.Size(304, 23);
@@ -121,7 +121,7 @@
             // lblAge
             // 
             this.lblAge.AutoSize = true;
-            this.lblAge.Location = new System.Drawing.Point(0, 211);
+            this.lblAge.Location = new System.Drawing.Point(169, 79);
             this.lblAge.Name = "lblAge";
             this.lblAge.Size = new System.Drawing.Size(0, 15);
             this.lblAge.TabIndex = 12;
